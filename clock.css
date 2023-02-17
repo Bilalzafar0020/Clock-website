@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.cantainer{
+    display: flex;
+    width: 100%;
+    height: 55px;
+    background-color: rgb(38,38,38);
+    border-bottom: 2px solid black;
+    
+}
+h1{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 5pt;
+    margin-left: 20pt;
+}
+span{
+    color: rgb(130,180,64);
+}
+.bu{
+    margin-left: 990px;
+    height: 30pt;
+    margin-top: 5pt;
+    width: 100px;
+    background-color: rgb(130,180,64);
+    color: white;
+    border-radius: 10px 5px;
+}
+.front{
+    background-image: url(./steel-wristwatch-on-black-background-2021-08-26-15-46-03-utc-copy.jpg);
+    background-size: cover;
+    background-position: center;
+width: 100%;
+height: 600px;
+background-color: rgb(0,0,0.5,black);
+}
+
+nav{
+    display: flex;
+    margin-left: 400pt;
+}
+ul li{
+    display: inline-block;
+    justify-content: space-between;
+    padding: 20pt 35pt;
+
+}
+.home{
+    color: white;
+    text-decoration: none;
+    font-size: 15pt;
+    
+}
+h3{
+    position: relative;
+    right: 340pt;
+    font-size: 20pt;
+    color: white;
+    margin-top: 25pt;
+}
+.cantain{
+    color: white;
+    width: 700pt;
+    margin-top: 200px;
+    margin-left: 250pt;
+    
+}
+.h2{
+    font-size: 65pt;
+}
+.text{
+    font-size: 45pt;
+    padding-left: 120pt;
+}
+.col{
+    background-color: rgb(54,54,54);
+    width: 100%;
+    height: 500pt;
+    
+}
+.img{
+    background-image: url(./businessman-looks-at-the-watch-on-his-wrist-looks-2022-08-11-16-04-24-utc-copy.jpg);
+background-position: center;
+background-size: cover;
+width: 400pt;
+height: 400pt;
+float: left;
+display: flex;
+margin-left: 40pt;
+margin-top: 55pt;
+
+}
+.rr{
+    margin-left: 500pt;
+    width: 400pt;
+    height: 100pt;
+    padding-top:150pt ;
+}
+.h21{
+    font-size: 40pt;
+    padding-left: 10pt;
+}
+.text1{
+    font-size: 20pt;
+}
+.img1{
+    background-image: url(./Picture/mens-chronograph-made-metal-with-sapphire-glass-w-2022-08-01-04-55-35-utc-copy.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 400pt;
+}
+.ty{
+    
+    width: 300pt;
+    padding-top: 130pt;
+    padding-left: 30pt;
+}
+.join{
+    font-size: 55pt;
+}
+.but{
+    height: 50pt;
+    background-color: rgb(72,72,72);
+    border-radius: 10px 5px;
+    margin-left: 50pt;
+    width: 150pt;
+    margin-top: 20pt;
+}
+.sub{
+    color: white;
+font-size: 18pt;
+text-decoration: none;
+}
+.get{
+    background-color: black;
+    width: 100%;
+    height: 500pt;
+}
+.h5{
+    width: 500pt;
+    float: left;
+}
+.h13{
+    padding-top: 60pt;
+    font-size: 55pt;
+
+
+}
+.fusce{
+    color: rgb(72,72,72);
+    font-size: 30px;
+    margin-bottom: 50pt;
+}
+form{
+    margin-left: 550pt;
+    padding-top: 100pt;
+}
+.name,.email,.subject{
+    width: 400pt;
+    height: 35pt;
+    background-color: rgb(72,72,72);
+    color: white;
+}
+.comment{
+    height: 75pt;
+    width: 400pt;
+    background-color: rgb(72,72,72);
+    color: white;
+}
+.name::placeholder{
+    color: white;
+}
+.email::placeholder{
+    color: white;
+}
+.subject::placeholder{
+    color: white;
+
+}
+.comment::placeholder{
+    color: white;
+}
+.butt{
+    width: 400pt;
+    height: 45pt;
+    background-color:black;
+    color: white;
+    border: 1px solid white;
+    font-size: 20pt;
+}
+.butt:hover{
+    background-color:rgb(38,38,38);
+}
+.card{
+    background-color: black;
+    width: 100%;
+    height: 300pt;
+}
+.cor{
+    width: 300pt;
+    padding-top: 80pt;
+    padding-left: 30pt;
+    float: left;
+}
+.h6{
+    font-size: 35pt;
+    margin-bottom: 20pt;
+}
+.khan{
+    font-size: 15pt;
+    color: rgb(221, 201, 201);
+}
+table{
+    margin-left: 350pt;
+    padding-top: 80pt;
+}
+tr th{
+    color: white;
+    width: 150pt;
+    font-size: 18pt;
+}
+tr td{
+    color: white;
+    width: 200pt;
+    text-align: center;
+    height: 20pt;
+    font-size: 13pt;
+}
